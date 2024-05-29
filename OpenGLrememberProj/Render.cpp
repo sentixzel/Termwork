@@ -641,7 +641,6 @@ void Render(OpenGL *ogl)
 
 
 	std::stringstream ss;
-	ss << "T - вкл/выкл текстур" << std::endl;
 	ss << "L - вкл/выкл освещение" << std::endl;
 	ss << "F - Свет из камеры" << std::endl;
 	ss << "G - двигать свет по горизонтали" << std::endl;
